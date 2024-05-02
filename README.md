@@ -80,3 +80,11 @@ I haven't seen this abuse method myself, but was brought to my attention by anot
 ![image](https://github.com/Sequorr/discord-server-protection-guide/assets/141674738/0aae809c-1f10-46a7-9d25-58342770b6da)
 
 </details>
+
+## IV. Other Safety Tips
+
+- Require all staff members to have Two-Factor Authentication (2FA) enabled.
+
+<hr />
+
+Feel free to [open an issue](https://github.com/Sequorr/discord-server-protection-guide/issues) if you have a suggestion or concern!
